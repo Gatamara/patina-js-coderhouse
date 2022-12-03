@@ -6,14 +6,14 @@ const crearBaseDeDatos = () => {
       name: "Parque los Reyes",
       type: "Skatepark",
       city: "Santiago",
-      filename: "assets/img/parque-losreyes.jpg",
+      filename: "/assets/img/parque-losreyes.jpg",
       obstaculos: ["baranda", "escalera", "bowl", "banca", "halfpipe"],
     },
     {
       name: "Padre Hurtado",
       type: "Skatepark",
       city: "Santiago",
-      filename: "assets/img/padre-hurtado.png",
+      filename: "/assets/img/padre-hurtado.png",
       obstaculos: ["escalera", "piramide", "halfpipe"],
     },
     {
