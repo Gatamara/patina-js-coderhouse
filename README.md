@@ -1,6 +1,7 @@
 # Proyecto Coderhouse
 
-Pagina web para buscar skateparks
+Pagina web para buscar skateparks, proyecto presentado para el curso JavaScript en Coderhouse.
+Puedes agregar spots, filtrar, buscar, y agregar a favoritos.
 
 ## Instruciones
 
